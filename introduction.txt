@@ -3,3 +3,9 @@ from small to very large projects with speed and efficiency
 
 hello, my name is Wonjae
 nice to meet you. i'm very glad to see you
+
+Commit changes...
+
+Python is a programming language that
+lets you work more auickly and integrate
+your systems more effectively.
